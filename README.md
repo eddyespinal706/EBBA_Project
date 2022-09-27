@@ -1,6 +1,6 @@
 # EBBA Project.
 
-This is a suit of tools for small business that helps with:
+This is a suit of tools for small businesses that helps with:
 
  * Sales.
  * Inventory.
