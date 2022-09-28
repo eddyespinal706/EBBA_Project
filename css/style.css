@@ -1,0 +1,12 @@
+.login{
+    display: flexbox;
+    align-content: center;
+}
+
+.login_logo{
+    height: 300px;
+    width: 250px;
+    background-image: url(../media/logo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
